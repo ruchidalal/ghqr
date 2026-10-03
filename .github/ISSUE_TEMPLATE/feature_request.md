@@ -2,7 +2,7 @@
 name: Feature Request
 about: Create a Feature Request for ghqr
 title: ''
-labels: kind/enhancement
+labels: ''
 assignees: ''
 
 ---

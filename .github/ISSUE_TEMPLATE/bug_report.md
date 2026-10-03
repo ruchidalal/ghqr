@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a bug in ghqr
 title: ''
-labels: kind/bug
+labels: ''
 assignees: ''
 
 ---

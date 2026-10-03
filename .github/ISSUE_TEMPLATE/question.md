@@ -2,7 +2,7 @@
 name: Question
 about: Ask a question about ghqr
 title: ''
-labels: kind/question
+labels: ''
 assignees: ''
 
 ---
